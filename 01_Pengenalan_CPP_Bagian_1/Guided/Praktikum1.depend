@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1727074389 source:c:\users\acer\onedrive\documents\praktikum1\src\praktikum1.cpp
+	"praktikum1.h"
+
+1727074389 c:\users\acer\onedrive\documents\praktikum1\include\praktikum1.h
+
+1727079008 source:c:\users\acer\onedrive\documents\praktikum1\main.cpp
+	<iostream>
+	<stdio.h>
+	<conio.h>
+
